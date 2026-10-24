@@ -1,6 +1,4 @@
 # Open Educational Resources by Jon Maber
-## Creative Commons Licensing
-
 This project contains source code for OER resources.  The resources are published on the
 [related GitHub Pages web site](https://jmaber.github.io/oer/accountability/index.html).
 
@@ -11,6 +9,8 @@ in other formats by other means.
 
 Remember, that however you share the adapted materials you must include information
 about its origins according to the Creative Commons License:
+
+## Creative Commons Licensing
 
 ![Main creative commons logo](https://mirrors.creativecommons.org/presskit/logos/cc.logo.svg)
 
