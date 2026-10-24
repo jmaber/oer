@@ -1,9 +1,23 @@
 # Open Educational Resources by Jon Maber
 ## Creative Commons Licensing
 
-Resources are not intended to be accessed here by students or participants in training. Rather this is 
-where teachers and trainings can find resources they can copy, adapt and share with their students and training.
+This project contains source code for OER resources.  The resources are published on the
+[related GitHub Pages web site](https://jmaber.github.io/oer/accountability/index.html).
 
-I recommend that teachers fork this project in github and use the tools provided in github to edit. Then
-you can download and print/publish in an on-line learning environment or share in any other way.
+Teachers and trainers can fork this project to adapt the materials for their own 
+not-for-profit use.  You can create your own Pages site if you want learners and
+training participants to access the materials that way or you can distribute the materials
+in other formats by other means.
 
+Remember, that however you share the adapted materials you must include information
+about its origins according to the Creative Commons License:
+
+![Main creative commons logo](https://mirrors.creativecommons.org/presskit/logos/cc.logo.svg)
+
+All resources here © 2026 by **Jon Maber*are licensed under 
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![Small creative commons logo](https://mirrors.creativecommons.org/presskit/icons/cc.svg)
+![Creative commons attribution required logo](https://mirrors.creativecommons.org/presskit/icons/by.svg)
+![Creative commons non-commerical use logo](https://mirrors.creativecommons.org/presskit/icons/nc.svg)
+![Creative commons share-alike logo](https://mirrors.creativecommons.org/presskit/icons/sa.svg)
