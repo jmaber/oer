@@ -14,7 +14,7 @@ about its origins according to the Creative Commons License:
 
 ![Main creative commons logo](https://mirrors.creativecommons.org/presskit/logos/cc.logo.svg)
 
-All resources here © 2026 by **Jon Maber*are licensed under 
+All resources here © 2026 by **Jon Maber** are licensed under 
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ![Small creative commons logo](https://mirrors.creativecommons.org/presskit/icons/cc.svg)
